@@ -1,0 +1,21 @@
+body {
+    color: white;
+    background-color: #640b90;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 550%;
+}
+
+h2,h3 {
+    font-size: 250%;
+}
+
+p {
+    font-size: 125%;
+}
